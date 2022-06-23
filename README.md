@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 <image src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif">
  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+ <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
