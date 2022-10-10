@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engineer-br0" alt="engineer-br0" /></a> </p> -->
 
 
-
 - 📫 How to reach me **immridulsharma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
