@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engineer-br0" alt="engineer-br0" /></a> </p> -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./images/light_mode.svg" />
+  <img alt="engineer-br0's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 - 📫 How to reach me **immridulsharma@gmail.com**
 
@@ -53,8 +58,4 @@ Here are some ideas to get you started:
  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engineer-br0&label=Profile%20views&color=0e75b6&style=flat" alt="engineer-br0" /> </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./images/light_mode.svg" />
-  <img alt="engineer-br0's GitHub profile" src="dark_mode.svg" />
-</picture>
+
