@@ -52,3 +52,9 @@ Here are some ideas to get you started:
 
  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engineer-br0&label=Profile%20views&color=0e75b6&style=flat" alt="engineer-br0" /> </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="engineer-br0's GitHub profile" src="dark_mode.svg" />
+</picture>
